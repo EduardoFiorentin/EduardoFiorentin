@@ -14,9 +14,9 @@
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>  
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </div>
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=EduardoFiorentin&theme=blue-green" style="height: 250px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoFiorentin&theme=blue-green" style="height: 250px"/>
+<div style="display: flex; flex-wrap: no-wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=EduardoFiorentin&theme=blue-green" style="height: 200px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoFiorentin&theme=blue-green" style="height: 200px"/>
 </div>
 <br>
 <div>
