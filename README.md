@@ -4,5 +4,5 @@
 - 🏖️ Minha área favorita é o FrontEnd.
 - 🚩 Gosto de resolver problemas. 
 - 📚 Autodidata, curioso e sempre disposto a aprender.
-- 👨‍💻 Linguagens: HTML | CSS | JavaScript |📖  Python.
+- 👨‍💻 Linguagens: HTML | CSS | JavaScript | Python.
 - ⌨️ Tecnologias e recursos: JQuery | React | Sass | Flexbox | GridLayout.
