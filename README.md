@@ -1,6 +1,6 @@
 ### Olá, meu nome é Eduardo 👋
 - 🤓 Programador iniciante!
-- 📖 Futuro estudante de <strong>Ciência da computação</strong> na <strong>UFFS-Chapecó/SC</strong>.
+- 📖 <strong>Ciência da computação</strong> na <strong>UFFS-Chapecó/SC</strong>.
 - 🏖️ Minha área favorita é o <strong>FrontEnd</strong>.
 - 🚩 Gosto de resolver problemas. 
 - 📚 Autodidata, curioso e sempre disposto a aprender.
