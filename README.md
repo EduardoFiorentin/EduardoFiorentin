@@ -4,7 +4,7 @@
 - 🚩 Gosto de resolver problemas. 
 - 📚 Autodidata, curioso e sempre disposto a aprender.
 - 👨‍💻 Linguagens: <strong>HTML | CSS | JavaScript | Python | C | C++</strong>.
-- ⌨️ Tecnologias e recursos: <strong>React | Sass | BootStrap | Node | Django | TailWind</strong>.
+- ⌨️ Tecnologias e recursos: <strong>React | Sass | BootStrap | Node | TailWind</strong>.
 <hr>
 <!-- <div>
   <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>  
