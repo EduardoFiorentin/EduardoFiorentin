@@ -3,7 +3,7 @@
 - 🏖️ <strong>FrontEnd</strong>.
 - 🚩 Gosto de resolver problemas. 
 - 📚 Autodidata, curioso e sempre disposto a aprender.
-- 👨‍💻 Linguagens: <strong>HTML | CSS | JavaScript | Python | C | C++ | Java</strong>.
+- 👨‍💻 Linguagens: <strong>HTML | CSS | JavaScript | Python | C | C++ | Java | VHDL</strong>.
 - ⌨️ Tecnologias e recursos: <strong>React | Sass | BootStrap | Node | TailWind | MaterialUI | Swagger</strong>.
 <hr>
 <!-- <div>
