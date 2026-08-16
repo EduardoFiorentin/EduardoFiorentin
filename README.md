@@ -27,19 +27,6 @@ Sou curioso e gosto de aprender novas tecnologias colocando a m√£o na massa. Al√
 
 ---
 
-<div style="display: flex; flex-wrap: nowrap;">
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=EduardoFiorentin&theme=blue-green" style="height: 200px"/>
-  </a>
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoFiorentin&theme=blue-green" style="height: 200px"/>
-  </a>
-</div>
-
-<br>
-
----
-
 <div>
   <a href="https://www.linkedin.com/in/eduardo-fiorentin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
